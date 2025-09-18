@@ -5,4 +5,4 @@ Step 2: Check if the website is reachable
 Step 3: Parse HTML content
 Step 4: Find all <article> tags
 Step 5: Extract title and link from each article
- Step 6: Return the data
+Step 6: Return the data
